@@ -14,7 +14,7 @@ const MyCards = () => {
 
                 </div>
                 <h3 className="text-2xl md:text-3xl font-medium mt-3">Explore Stunning Destinations</h3>
-                <p className='text-slate-500 text-lg mt-3'> Discover breathtaking destinations that offer rich culture, beautiful landscapes, and unforgettable experiences. Whether you're seeking peace in nature, adventure in the mountains, or a dip in turquoise waters, find the perfect spot for your next getaway.</p>
+                <p className='text-slate-500 text-lg mt-3'> Discover breathtaking destinations that offer rich culture, beautiful landscapes, and unforgettable experiences. Whether you&apos;re seeking peace in nature, adventure in the mountains, or a dip in turquoise waters, find the perfect spot for your next getaway.</p>
                 <a href="#" className='text-center bg-blue-400 text-blue-700 py-2 rounded-lg font-semibold mt-4 hover:bg-blue-300 focus:scale-95 transition-all duration-200 ease-out'>Destination Highlights</a>
 
             </div>
@@ -89,7 +89,7 @@ const MyCards = () => {
 
                 </div>
                 <h3 className="text-2xl md:text-3xl font-medium mt-3">Escape for a Romantic Getaway</h3>
-                <p className='text-slate-500 text-lg mt-3'> Whether it's a honeymoon, anniversary, or a special weekend escape, our romantic retreats offer intimate experiences with breathtaking views, private dinners, and serene surroundings—perfect for celebrating love.</p>
+                <p className='text-slate-500 text-lg mt-3'> Whether it&apos;s a honeymoon, anniversary, or a special weekend escape, our romantic retreats offer intimate experiences with breathtaking views, private dinners, and serene surroundings—perfect for celebrating love.</p>
                 <a href="#" className='text-center bg-blue-400 text-blue-700 py-2 rounded-lg font-semibold mt-4 hover:bg-blue-300 focus:scale-95 transition-all duration-200 ease-out'>Romantic Retreats</a>
 
             </div>

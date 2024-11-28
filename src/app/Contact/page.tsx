@@ -20,7 +20,7 @@ const Contact = () => {
         Contact Us for Your Dream Vacation
       </h1>
       <p className="text-lg sm:text-xl text-gray-700 leading-relaxed mb-8">
-        At Next Tour, we're here to make your travel dreams come true. Whether you're looking for a relaxing getaway, an adventurous expedition, or a cultural exploration, our team is ready to help you plan the perfect itinerary. If you have any questions, need personalized recommendations, or want to get started on your next journey, don't hesitate to reach out. We're here to assist with all your travel needs and ensure you have an unforgettable experience. Get in touch with us today, and let us help you create memories that will last a lifetime!
+        At Next Tour, we&apos;re here to make your travel dreams come true. Whether you&apos;re looking for a relaxing getaway, an adventurous expedition, or a cultural exploration, our team is ready to help you plan the perfect itinerary. If you have any questions, need personalized recommendations, or want to get started on your next journey, don't hesitate to reach out. We&apos;re here to assist with all your travel needs and ensure you have an unforgettable experience. Get in touch with us today, and let us help you create memories that will last a lifetime!
       </p>
     </div>
   {/* whatsapp */}

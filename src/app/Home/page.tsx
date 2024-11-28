@@ -13,7 +13,7 @@ const Home = () => {
   {/* Text and button overlay */}
   <div className="relative z-10 flex flex-col items-center justify-center h-full text-center px-4">
     <h1 className="text-white text-5xl font-extrabold mb-4 drop-shadow-lg">
-      Let's go to Pakistan Tour
+    Let&apos;s go to Pakistan Tour
     </h1>
     <p className="text-white text-2xl mb-8 max-w-lg drop-shadow-md">
       Discover amazing places with us and experience the beauty of Pakistan!

@@ -23,10 +23,18 @@ const BookingForm = () => {
 
   // Define place options and prices
   const places = [
-    { name: "Beach", price: 1000 },
-    { name: "Mountains", price: 1500 },
-    { name: "City Tour", price: 1200 },
-    { name: "Desert Safari", price: 1800 },
+    { name: "Fairy Meadows", price: 4000 },
+    { name: "Lahore", price: 3000 },
+    { name: "Taxila", price: 3000 },
+    { name: "The Karakoram Highway", price: 4000 },
+    { name: "Karimabad", price: 2000 },
+    { name: "Rohtas Fort", price: 3000 },
+    { name: "Khewra Salt Mines", price: 3000 },
+    { name: "Neelum Valley", price: 2000 },
+    { name: "Rawat Fort", price: 3000 },
+    { name: "Skardu", price: 4000 },
+    { name: "Shogran Valley", price: 3000 },
+    { name: "Hunza Valley", price: 4000 },
   ];
 
   // Update form data for input changes
